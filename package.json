@@ -1,0 +1,93 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "node-red-contrib-fs-write",
+        "scope": null,
+        "escapedName": "node-red-contrib-fs-write",
+        "name": "node-red-contrib-fs-write",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\Program Files (x86)\\OpenSSH\\.node-red"
+    ]
+  ],
+  "_from": "node-red-contrib-fs-write@latest",
+  "_id": "node-red-contrib-fs-write@0.2.10",
+  "_inCache": true,
+  "_location": "/node-red-contrib-fs-write",
+  "_nodeVersion": "6.9.5",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/node-red-contrib-fs-write-0.2.10.tgz_1511318045321_0.5691108966711909"
+  },
+  "_npmUser": {
+    "name": "mauriciom75",
+    "email": "mauriciom7575@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "node-red-contrib-fs-write",
+    "scope": null,
+    "escapedName": "node-red-contrib-fs-write",
+    "name": "node-red-contrib-fs-write",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/node-red-contrib-fs-write/-/node-red-contrib-fs-write-0.2.10.tgz",
+  "_shasum": "782ba390baecff5e25aaa4fd1e36503756926da7",
+  "_shrinkwrap": null,
+  "_spec": "node-red-contrib-fs-write",
+  "_where": "D:\\Program Files (x86)\\OpenSSH\\.node-red",
+  "author": {
+    "name": "Mauricio Margot",
+    "email": "mauriciom7575@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/mauriciom75/node-red-contrib-fs-write/issues"
+  },
+  "dependencies": {},
+  "description": "Wait several branches to continue flow. Wait for incoming messages from diferent paths to generate only an output message.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "782ba390baecff5e25aaa4fd1e36503756926da7",
+    "tarball": "https://registry.npmjs.org/node-red-contrib-fs-write/-/node-red-contrib-fs-write-0.2.10.tgz"
+  },
+  "gitHead": "4e708145354bd35c9c45801b191ec23fe962b7a0",
+  "homepage": "https://github.com/mauriciom75/node-red-contrib-fs-write",
+  "keywords": [
+    "node-red",
+    "join",
+    "parallel",
+    "timeout",
+    "merge"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "mauriciom75",
+      "email": "mauriciom7575@gmail.com"
+    }
+  ],
+  "name": "node-red-contrib-fs-write",
+  "node-red": {
+    "nodes": {
+      "fs-write": "fs-write.js"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauriciom75/node-red-contrib-fs-write.git"
+  },
+  "scripts": {},
+  "version": "0.2.10"
+}
